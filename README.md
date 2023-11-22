@@ -1,3 +1,3 @@
 # GenAI-Copilot CLI - How-To install
-
-** $>npm install -g @githubnext/github-copilot-cli
+  ** Install GitHub Copilot CLI on your Codespace instance using npm:
+  ** $>npm install -g @githubnext/github-copilot-cli
