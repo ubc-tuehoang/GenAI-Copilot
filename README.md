@@ -9,3 +9,5 @@
    - The browser navigates to the codespace instance: something like this... <some random name>gp.github.dev
    - At bottom, select tab "Terminal" - this is bash shell
    - * $>npm install -g @githubnext/github-copilot-cli
+     * To authenticate with GitHub Copilot CLI:
+   - * $>github-copilot-cli auth
