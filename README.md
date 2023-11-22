@@ -12,3 +12,6 @@
    - * $>npm install -g @githubnext/github-copilot-cli
      * To authenticate with GitHub Copilot CLI:
    - * $>github-copilot-cli auth
+
+---------------
+source: https://www.npmjs.com/package/@githubnext/github-copilot-cli
